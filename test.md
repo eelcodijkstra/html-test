@@ -8,4 +8,4 @@ Je kunt hiermee eenvoudig een opsomming maken:
 * item 2
 * item 3
 
-[home](/index.html)
+[home](index.html)
